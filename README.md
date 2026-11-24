@@ -62,11 +62,12 @@ thereby reducing friction and removing inefficiencies
 TECHNOLOGIES TO BE USED:
 
 Programming Language - Python, JavaScript
+
 Frame Work - hdml for web page, JavaScript for interativity
 
 METHODOLOGY & PROCESS FOR IMPLEMENTATION:
 ![alt text](<Image 1.png>)
-![alt text](<Image 2.png>)
+![alt text](<Image 2-1.png>)
 ![alt text](<Image 3 Flow Chart.png>)
 
 ## Feasibility and Viability
